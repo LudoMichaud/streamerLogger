@@ -1,0 +1,12 @@
+{
+  "name": "hls-stream-app",
+  "version": "1.0.0",
+  "description": "Live HLS streaming server with FFmpeg",
+  "main": "hls-stream-app.js",
+  "scripts": {
+    "start": "node hls-stream-app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
