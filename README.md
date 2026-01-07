@@ -19,4 +19,6 @@ node hls-stream-app.js
 This application starts a live stream with ffmpeg, hosts it, as well as a web page using the Bitmovin Player to play the stream. 
 The application logs all requests in the console. 
 
-for testing only, not meant for production
+## Disclaimers
+For testing only, not meant for production. Use at your own risk.
+Partly generated with AI
